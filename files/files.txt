@@ -40,6 +40,17 @@ admin
 8
 9
 0
+beta
+alpha
+prod
+production
+stage
+qa
+investors
+newsletter
+news
+database
+data
 back
 bak
 bac
