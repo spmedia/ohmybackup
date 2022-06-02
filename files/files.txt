@@ -50,7 +50,6 @@ investors
 newsletter
 news
 database
-data
 back
 bak
 bac
