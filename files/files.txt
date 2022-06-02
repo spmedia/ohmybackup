@@ -11,6 +11,8 @@ last_backup
 2018_backup
 2019_backup
 2020_backup
+2021_backup
+2022_backup
 last-backup
 2017-backup
 2018-backup
@@ -47,6 +49,12 @@ db
 hdocs
 wwwroot
 test
+testing
+main
+old
+home
+homepage
+content
 template
 last
 first
