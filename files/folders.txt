@@ -170,3 +170,10 @@ backups2019
 backups2020
 backups2021
 backups2022
+test
+testing
+prod
+qa
+stage
+beta
+alpha
