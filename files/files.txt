@@ -4,6 +4,8 @@ lastbackup
 2018backup
 2019backup
 2020backup
+2021backup
+2022backup
 last_backup
 2017_backup
 2018_backup
@@ -14,6 +16,8 @@ last-backup
 2018-backup
 2019-backup
 2020-backup
+2021-backup
+2022-backup
 archive
 .backup
 !backup
